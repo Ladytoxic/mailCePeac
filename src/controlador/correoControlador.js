@@ -9,7 +9,7 @@ const enviarCorreo = (req=request, resp=response) =>{
         secure: false,
         auth: {
             user: 'ladytoxica4@gmail.com',
-            pass: 'zczzeweumybkfqtd',
+            pass: 'njdeumpkqrampovn',
         },
     });
     console.log('se conecto con Ladytoxica4@gmail.com')
